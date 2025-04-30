@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CryptAlfred
-- 👀 I’m interested in science fiction, liberalism, and jazzy lofi hiphop
+- 👀 I’m interested in science fiction, self-development, and jazzy lofi hiphop
 - 🌱 I’m currently learning Python and Spanish
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
